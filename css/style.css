@@ -368,6 +368,9 @@ color: #2E2F42;
     border-color: #404bbf;
     color: #404bbf;
 }
+.customers-icon {
+    fill: currentColor;
+}
 .footer {
     padding: 100px 0;
     background-color: var(--dark-text-color)
