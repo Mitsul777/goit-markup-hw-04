@@ -277,6 +277,9 @@ color: #2E2F42;
 .person-card {
     padding: 32px 16px;
 }
+.person-card-icon {
+    fill: var(--light-text-color);
+}
 .person-card-list {
     display: flex;
     justify-content: center;
