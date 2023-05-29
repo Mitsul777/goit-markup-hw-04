@@ -411,6 +411,9 @@ letter-spacing: 0.02em;
 color: #F4F4FD;
     max-width: 264px;
 }
+.footer-icon {
+    fill: var(--light-text-color);
+}
 .site-nav .list .link {
     color: var(--dark-text-color);
 }
