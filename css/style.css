@@ -14,7 +14,6 @@
     --light-text-color: #F4F4FD; 
     --light-color: #FFFFFF;
 }
-
 p,
 h1,
 h2,
@@ -333,6 +332,21 @@ color: #2E2F42;
 }
 .container-teams {
     padding: 32px 16px;
+}
+.customers {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.customers-title {
+    font-size: 36px;
+    line-height: 1.11;
+    color: var(--dark-text-color);
+    margin-bottom: 72px;
+
+}
+.customers-list {
+    display: flex;
+    gap: 24px;
 }
 .footer {
     padding: 100px 0;
