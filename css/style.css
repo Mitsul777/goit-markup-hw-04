@@ -532,7 +532,7 @@ color: #F4F4FD;
     display: flex;
     align-items: baseline;
 }
-.app-list {
+.person-card-link {
     display: block;
 }
 .portfolio-link:hover {
