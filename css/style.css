@@ -162,6 +162,15 @@ color: #2e2f42;
 .section {
     padding: 120px 0;
 }
+.section-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
 .section-title {
     color: #2E2F42;
     font-weight: 500;
