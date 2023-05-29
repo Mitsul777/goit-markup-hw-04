@@ -484,3 +484,7 @@ color: #F4F4FD;
 .media-icon:hover {
     background-color: #31d0aa;
 }
+.foot-container {
+    display: flex;
+    align-items: baseline;
+}
