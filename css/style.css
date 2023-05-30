@@ -345,6 +345,7 @@ color: #2E2F42;
     line-height: 1.11;
     color: var(--dark-text-color);
     margin-bottom: 72px;
+    text-align: center;
 
 }
 .customers-list {
